@@ -1,0 +1,24 @@
+{
+  "contests": [
+    {
+      "id": 1,
+      "categoryName": "Summary",
+      "contestName": "Summary information"
+    },
+    {
+      "id": 2,
+      "categoryName": "Skills",
+      "contestName": "My Hard Skills"
+    },
+    {
+      "id": 3,
+      "categoryName": "Professional Hystory",
+      "contestName": "My professional hystory from 2006 to present time"
+    },
+    {
+      "id": 4,
+      "categoryName": "Expectations",
+      "contestName": "My expectations"
+    }
+  ]
+}

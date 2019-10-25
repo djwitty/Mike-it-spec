@@ -1,2 +1,2 @@
-# Mike-it-spec
-This is the personal ws of Mike.
+# learn-fullstack-javascript
+Learning Fullstack JavaScript Development: MongoDB, Node.js, React.js
